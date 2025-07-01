@@ -32,4 +32,4 @@ I'm always open to collaborations in:
 ## 📫 Reach Me
 - ✉️ [c.vonkrogh@outlook.com](mailto:c.vonkrogh@outlook.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/constantin-von-krogh/)
-- 🗂️ [My Projects](https://github.com/constantinvonkrogh)
+
