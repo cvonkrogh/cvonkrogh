@@ -27,9 +27,3 @@ I'm always open to collaborations in:
 - Automated document processing
 - Financial and regulatory analytics projects
 
----
-
-## 📫 Reach Me
-- ✉️ [c.vonkrogh@outlook.com](mailto:c.vonkrogh@outlook.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/constantin-von-krogh/)
-
