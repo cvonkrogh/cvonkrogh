@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Antoni (Constantin von Krogh)
+# 👋 Hi, I'm Constantin 
 
 🎓 Business Analytics student at the University of Amsterdam  
 🇩🇪 🇺🇸 German-American | Fluent in English and German  
